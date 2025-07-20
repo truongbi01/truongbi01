@@ -8,7 +8,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1596F7&center=true&width=1200&height=80&lines=Curious+and+collaborative+software+enthusiast+eager+to+contribute+to+impactful+projects)](https://git.io/typing-svg)
 
 </h3>
-![Workspace Animation](https://media1.giphy.com/media/gDPxwdP6SKFnsWDJ2u/giphy.gif)
+<img src="https://media1.giphy.com/media/gDPxwdP6SKFnsWDJ2u/giphy.gif" alt="Workspace Animation" width="300">
 
 
 <h2 align="left">About me</h2>
