@@ -58,5 +58,6 @@
 
 <h2 align="left">🏆 Stats & Languages</h2>
 ## 🧮 My GitHub Stats Card
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=truongbi01)](https://github.com/anuraghazra/github-readme-stats)
+[![truongbi01's GitHub stats](https://github-readme-stats.vercel.app/api?username=truongbi01)](https://github.com/anuraghazra/github-readme-stats)
+
 
