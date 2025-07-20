@@ -1,14 +1,12 @@
-<h1 align="left">Hi~ I'm School🥚</h1>
-
-###
-
+<h1 >Hi~ I'm School🥚</h1>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="GIF Animation" width="1000"/>
 <p align="left">My name is Lại Phước Trường. I was raise and born in  SaDec city (located in DongThap Province) and now i mana working at Ho Chi Minh City</p>
 
 ###
 
 <h2 align="left">About me</h2>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="GIF Animation" width="1000"/>
 
-###
 
 <p align="left">📚 I'm currently learning in Ho Chi Minh City University of Foreign Languages and Information Technology<br>🍗 I love chicken fried and Pho <br>🏐 I also have a passionate with volleyball and football</p>
 
