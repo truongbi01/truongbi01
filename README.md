@@ -7,8 +7,9 @@
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1596F7&center=true&width=1200&height=80&lines=Curious+and+collaborative+software+enthusiast+eager+to+contribute+to+impactful+projects)](https://git.io/typing-svg)
 
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnlpbjBpb3R3N3l2NXJhMWV5Y3V4bnZ6OWpmM282MXd2dmVjMGk1dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u2pmTWUi0MXjyrMaVj/giphy.gif" alt="Workspace Animation" width="300">
 </h3>
-<img src="https://media1.giphy.com/media/gDPxwdP6SKFnsWDJ2u/giphy.gif" alt="Workspace Animation" width="300">
+
 
 
 <h2 align="left">About me</h2>
